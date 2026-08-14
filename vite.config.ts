@@ -10,7 +10,7 @@ import { tanstackRouter } from "@tanstack/router-plugin/vite";
  * Precisa bater com o nome do repositório e terminar com "/".
  * É lido em runtime pelo router (import.meta.env.BASE_URL) como basepath.
  */
-const BASE = "/mkt-d2l-mestech/";
+const BASE = "/landing-page-lead/";
 
 const OUT_DIR = "docs";
 
