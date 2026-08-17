@@ -149,7 +149,7 @@ export const weeks: WeekBlock[] = [
         title: "O que realmente é fluência em IA para os profissionais de tecnologia",
         description:
           "Entenda como a IA está mudando o mercado de tecnologia e quais habilidades serão essenciais para profissionais que desejam se destacar nos próximos anos.",
-        instructor: "Leandro César Lopes Evangelista",
+        instructor: "Maurício Brito",
         zoomUrl: "https://us06web.zoom.us/meeting/register/EU-1kFzLR6-uctFEGjcE2Q",
         registrationUrl: "https://us06web.zoom.us/meeting/register/EU-1kFzLR6-uctFEGjcE2Q",
         materialsUrl: "",
@@ -164,7 +164,7 @@ export const weeks: WeekBlock[] = [
         title: "Como Empresas Constroem Agentes de IA",
         description:
           "Acompanhe a construção de um agente de IA do zero e descubra como equipes de tecnologia desenvolvem aplicações modernas utilizando modelos de linguagem e integrações com ferramentas externas.",
-        instructor: "Marcelo César",
+        instructor: "Moisés Luna",
         zoomUrl: "https://us06web.zoom.us/meeting/register/3A5n5rp0Ti2ITowgjgQoVg",
         registrationUrl: "https://us06web.zoom.us/meeting/register/3A5n5rp0Ti2ITowgjgQoVg",
         materialsUrl: "",
@@ -182,11 +182,11 @@ export const weeks: WeekBlock[] = [
         credits: [
           {
             label: "Host",
-            name: "João Faria (Coordenador das Pós-graduações de Arquitetura de Software e Soluções com IA e Engenharia e Arquitetura de Dados com IA)",
+            name: "Maximiliano (Coordenador das Pós-graduações de Segurança da Informação e Data Science com IA)",
           },
           {
             label: "Participação",
-            name: "Prof. André Souza e +1 convidado",
+            name: "Herman Rego +1 Convidado",
           },
         ],
         zoomUrl: "https://us06web.zoom.us/meeting/register/9AdlOtj_Qu6xudKrkRIwwA",
@@ -214,7 +214,7 @@ export const weeks: WeekBlock[] = [
         title: "Como empresas estão redesenhando produtos com IA",
         description:
           "Descubra como empresas estão incorporando Inteligência Artificial para transformar produtos, criar novas experiências e acelerar a inovação. Um estudo de caso com exemplos reais, decisões estratégicas e os principais aprendizados de quem já está colocando IA no centro do negócio.",
-        instructor: "Silas Liu",
+        instructor: "",
         zoomUrl: "https://us06web.zoom.us/meeting/register/Oi3vxSaERIGJN3q9bDR2Sg",
         registrationUrl: "https://us06web.zoom.us/meeting/register/Oi3vxSaERIGJN3q9bDR2Sg",
         materialsUrl: "",
@@ -228,7 +228,7 @@ export const weeks: WeekBlock[] = [
         title: "As tecnologias que todo profissional de tecnologia deveria acompanhar",
         description:
           "Conheça as tecnologias, tendências e movimentos que especialistas acreditam que vão impactar o mercado nos próximos anos. Um painel para entender o que vale acompanhar desde já e como se preparar para o futuro da carreira em tecnologia.",
-        instructor: "Silas Liu",
+        instructor: "",
         zoomUrl: "https://us06web.zoom.us/meeting/register/dXYflu0dSR2Plxj1Bj6JEA",
         registrationUrl: "https://us06web.zoom.us/meeting/register/dXYflu0dSR2Plxj1Bj6JEA",
         materialsUrl: "",
@@ -313,7 +313,7 @@ export const weeks: WeekBlock[] = [
         title: "Como acelerar sua carreira em tecnologia utilizando IA",
         description:
           "Uma conversa entre profissionais sobre como usar IA para acelerar a carreira em tecnologia: onde ela realmente destrava produtividade, o que muda na rotina dos times e quais escolhas fazem diferença nos próximos anos.",
-        instructor: "André Souza",
+        instructor: "",
         registrationUrl: "https://us06web.zoom.us/meeting/register/3qloS4-dTw-6l15JU8A1KQ",
         zoomUrl: "https://us06web.zoom.us/meeting/register/3qloS4-dTw-6l15JU8A1KQ",
         zoomLabel: "Acesse a aula no Zoom",
@@ -329,7 +329,7 @@ export const weeks: WeekBlock[] = [
         title: "Especialistas respondem sobre IA, carreira e tendência",
         description:
           "Encerramento aberto a perguntas: traga suas dúvidas sobre IA, estudo, mercado e carreira para responder ao vivo com os especialistas do evento.",
-        instructor: "André Souza",
+        instructor: "",
         zoomUrl: "https://us06web.zoom.us/meeting/register/i8NcLs25RJmHFm7ejhF25A",
         registrationUrl: "https://us06web.zoom.us/meeting/register/i8NcLs25RJmHFm7ejhF25A",
         materialsUrl: "",
