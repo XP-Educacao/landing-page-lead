@@ -167,8 +167,8 @@ export const weeks: WeekBlock[] = [
         instructor: "Moisés Luna",
         zoomUrl: "https://us06web.zoom.us/meeting/register/3A5n5rp0Ti2ITowgjgQoVg",
         registrationUrl: "https://us06web.zoom.us/meeting/register/3A5n5rp0Ti2ITowgjgQoVg",
-        materialsUrl: "",
-        replayUrl: "",
+        materialsUrl: "https://ava.xpeducacao.com.br/d2l/le/enhancedSequenceViewer/7828?url=https%3A%2F%2F31b3293b-2f2a-4c20-ae81-70694e5d5ddc.sequences.api.brightspace.com%2F7828%2Factivity%2F88658%3FfilterOnDatesAndDepth%3D1",
+        replayUrl: "https://ava.xpeducacao.com.br/content/enforced/7828-XP-ED-TECH26/replay-01-09.html",
         note: "*Para garantir sua participação se inscreva no link do Zoom.",
       },
       {
